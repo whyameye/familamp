@@ -1,21 +1,17 @@
 #include <FastLED.h>
 
-#define LED_PIN     5
+#define LED_PIN     19
 #define COLOR_ORDER GRB
-#define CHIPSET     WS2811
-#define NUM_LEDS    30
+#define CHIPSET     NEOPIXEL
+#define NUM_LEDS    16
 
 #define BRIGHTNESS  200
 #define FRAMES_PER_SECOND 60
 
 CRGB leds[NUM_LEDS];
 
-// Fire2012 with programmable Color Palette
-//
-// This code is the same fire simulation as the original "Fire2012",
-// but each heat cell's temperature is translated to color through a FastLED
-// programmable color palette, instead of through the "HeatColor(...)" function.
-//
+// Familamp with programmable Color Palette
+
 // Four different static color palettes are provided here, plus one dynamic one.
 // 
 // The three static ones are: 
