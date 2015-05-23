@@ -3,7 +3,7 @@ An IoT lamp based on John Harrison's Filimin networked RGB lights.
 
 In essence, an inter-networked series of lamps using FastLED, ESP8266 and Arduino that 'communicate' by syncing across the internet.
 
-I intend taking some elements from Horacio Bouzas' Web-configurable Wifi code for ESP8266, from 'Cheerlights' and from the amazing work done by the principals and contributors at FASTLed.
+I intend taking some elements from Horacio Bouzas' Web-configurable Wifi code for ESP8266, from 'Cheerlights' and from the amazing work done by the principals and contributors at FastLED.
 
 John Harrrison's Filimin: 
 https://www.hackster.io/filimin/networked-rgb-wi-fi-decorative-touch-lights
