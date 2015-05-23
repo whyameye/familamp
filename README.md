@@ -5,9 +5,14 @@ In essence, an inter-networked series of lamps using FastLED, ESP8266 and Arduin
 
 I intend taking some elements from Horacio Bouzas' Web-configurable Wifi code for ESP8266, from 'Cheerlights' and from the amazing work done by the principals and contributors at FASTLed.
 
-John Harrrison's Filimin: https://www.hackster.io/filimin/networked-rgb-wi-fi-decorative-touch-lights
-FastLED Google Plus Community: https://plus.google.com/u/0/communities/109127054924227823508
-Horacio Bouzas' web code: http://horaciobouzas.com/2014/12/19/esp8266-based-web-configurable-wifi-general-purpose-control/
+John Harrrison's Filimin: 
+https://www.hackster.io/filimin/networked-rgb-wi-fi-decorative-touch-lights
+
+FastLED Google Plus Community: 
+https://plus.google.com/u/0/communities/109127054924227823508
+
+Horacio Bouzas' web code: 
+http://horaciobouzas.com/2014/12/19/esp8266-based-web-configurable-wifi-general-purpose-control/
 
 Hardware:
 
