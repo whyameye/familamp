@@ -5,3 +5,7 @@ The LEDs are 5V and fairly intolerant of anything greater.
 The Arduino Nano is 5V and fairly tolerant of voltages up to 12V.
 
 The Nano has the ability to deliver both 5V and 3.3V, but not enough mA to power either the 16 LEDs in a NeoPixel ring or the ESP8266, which is a power-hungry beastie, so I will develop a project board and submit it to OSHPark/SEEEDStudio for anyone that wants to buy it.
+
+The initial familamp board is a hack of a generic Nano/ESP projct board I made previously.
+
+It needs better power management and connections for LEDs
