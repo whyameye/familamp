@@ -18,6 +18,10 @@ Hardware:
 
 ESP8266 ESP-01 or ESP-03
 Arduino Nano
+
+Alternatively, Roman's wonderful Arduino PRO-compatible 'Wireless Sensor Board' would make a perfect platform:
+https://www.tindie.com/products/ceech/wireless-sensor-board-w-atmega328p/
+
 WS2811/WS2812 Addressable RGB LEDs - in either a strip or a ring (like Adafruit's NeoPixel ring)
 
 With great thanks to John Harrison for the inspiration and encouragement.

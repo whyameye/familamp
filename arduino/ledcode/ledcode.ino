@@ -1,6 +1,6 @@
 #include <FastLED.h>
 
-#define LED_PIN     19
+#define LED_PIN     10
 #define COLOR_ORDER GRB
 #define CHIPSET     NEOPIXEL
 #define NUM_LEDS    16
